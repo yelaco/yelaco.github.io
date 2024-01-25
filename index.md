@@ -1,3 +1,3 @@
 Chào mừng tới blog của mình!
 
-![Image of me](images/selfie.png)
+![Image of me](images/selfie.jpg)
