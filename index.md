@@ -1,3 +1,3 @@
-Chào mừng tới blog của mình!
+Make yourself at home!
 
-![Image of AIML](images/logo.png)
+![Intro](images/intro.gif)
