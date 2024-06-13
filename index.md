@@ -1,3 +1,3 @@
 Make yourself at home!
 
-![Intro](images/intro.gif)
+![Intro](images/logo.webp)
